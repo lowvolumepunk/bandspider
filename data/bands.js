@@ -1,6 +1,6 @@
 const bandsData = {
   nodes: [
-    { data: { id: "band1", label: "Queens of the Stone Age", image: "images/logo1.png", members: ["Josh Homme", "Joey Castillo"], projects: ["Songs for the Deaf", "Era Vulgaris"] }},
+    { data: { id: "band1", label: "Queens of the Stone Age", image: "images/logo1.png", members: ["Alfredo Hernández", "Dave Catching", "Nick Oliveri", "Mark Lanegan", "Gene Trautmann", "Dave Grohl", "Joey Castillo", "Alain Johannes", "Natasha Shneider", "Josh Homme", "Troy Van Leeuwen", "Michael Shuman", "Dean Fertita", "Jon Theodore"], projects: ["Songs for the Deaf", "Era Vulgaris"] }},
     { data: { id: "band2", label: "Band 2", image: "images/logo2.png", members: ["Person 3"], projects: ["Album C"] }},
     { data: { id: "band3", label: "Band 3", image: "images/logo3.png", members: ["Person 1"], projects: ["Album D"] }},
     { data: { id: "band4", label: "Band 4", image: "images/logo4.png", members: ["Person 4", "Person 5"], projects: ["Album E"] }},
