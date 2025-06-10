@@ -37,7 +37,7 @@ cy.on("tap", "node", function (evt) {
   document.getElementById("cy").style.display = "none";
   const info = document.getElementById("band-info");
   info.classList.remove("hidden");
-  document.getElementById("band-logo").innerHTML = `<img src="${data.image}" style="width:100px" />`;
+  document.getElementById("band-logo").innerHTML = `<img src="${data.image}" style="width:500px" />`;
   const memberList = document.getElementById("member-list");
   memberList.innerHTML = data.members.map(m => `<li>${m}</li>`).join("");
   const projectList = document.getElementById("project-list");
